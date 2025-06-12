@@ -1,9 +1,3 @@
-# Linkedin EasyApply Bot
-Automate the application process on LinkedIn
-
-Write-up: https://www.nicolomantini.com/p/how-to-apply-for-jobs-while-you-are-sleeping
-Video: https://www.youtube.com/watch?v=4R4E304fEAs
-
 ## Setup 
 
 Python 3.10 using a conda virtual environment on Linux (Ubuntu)
