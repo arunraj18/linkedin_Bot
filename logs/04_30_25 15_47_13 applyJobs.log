@@ -1,0 +1,7 @@
+./logs/30-Apr-25 15:47:13::__main__::INFO::{'phone_number': 9724606467, 'profile_path': '', 'positions': ['Data Scientist', 'Data Analyst', 'Data Engineer'], 'locations': ['United States', 'Remote'], 'salary': 140000, 'rate': 70, 'uploads': {'Resume': '/Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx', 'Cover Letter': '/Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx'}, 'output_filename': ['/Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv'], 'experience_level': None}
+./logs/30-Apr-25 15:47:13::__main__::INFO::Welcome to Easy Apply Bot
+./logs/30-Apr-25 15:47:13::__main__::INFO::current directory is : /Users/arunrajpeddhala/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/30-Apr-25 15:47:13::__main__::INFO::Please wait while we prepare the bot for you
+./logs/30-Apr-25 15:47:13::__main__::INFO::Applying for all experience levels
+./logs/30-Apr-25 15:47:13::__main__::INFO::[Errno 2] No such file or directory: '/Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv'   jobIDs could not be loaded from CSV /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv
+./logs/30-Apr-25 15:47:17::__main__::INFO::Logging in.....Please wait :)  

@@ -1,0 +1,429 @@
+./logs/01-May-25 09:21:04::__main__::INFO::{'phone_number': 9724606467, 'profile_path': '', 'positions': ['Data Scientist'], 'locations': ['United States', 'Remote'], 'salary': 140000, 'rate': 70, 'uploads': {'Resume': '/Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx', 'Cover Letter': '/Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx'}, 'output_filename': '/Users/arunrajpeddhala/Desktop/LinkedIn-Easy-Apply-Bot/out.csv', 'experience_level': None}
+./logs/01-May-25 09:21:04::__main__::INFO::Welcome to Easy Apply Bot
+./logs/01-May-25 09:21:04::__main__::INFO::current directory is : /Users/arunrajpeddhala/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/01-May-25 09:21:04::__main__::INFO::Please wait while we prepare the bot for you
+./logs/01-May-25 09:21:04::__main__::INFO::Applying for all experience levels
+./logs/01-May-25 09:21:04::__main__::INFO::[Errno 21] Is a directory: '/'   jobIDs could not be loaded from CSV /
+./logs/01-May-25 09:21:06::__main__::INFO::Logging in.....Please wait :)  
+./logs/01-May-25 09:21:31::__main__::INFO::Applying to Data Scientist: Remote
+./logs/01-May-25 09:21:31::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-May-25 09:21:33::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:21:41::__main__::INFO::Looking for jobs.. Please wait..
+./logs/01-May-25 09:21:41::__main__::INFO::59.0 minutes left in this search
+./logs/01-May-25 09:21:41::__main__::DEBUG::Sleeping for 1.9
+./logs/01-May-25 09:21:54::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:21:54::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:21:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:22:06::__main__::INFO::Skipping application
+./logs/01-May-25 09:22:07::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:22:15::__main__::INFO::Skipping application
+./logs/01-May-25 09:22:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:22:21::__main__::INFO::Skipping application
+./logs/01-May-25 09:22:24::__main__::INFO::Application Submitted
+./logs/01-May-25 09:22:25::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:22:32::__main__::INFO::Application Submitted
+./logs/01-May-25 09:22:33::__main__::INFO::Application Submitted
+./logs/01-May-25 09:22:33::__main__::INFO::
+Position 4207846832:
+ (2) Senior Machine Learning Strategist | Revolution Technologies | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:22:33::__main__::INFO::58.0 minutes left in this search
+./logs/01-May-25 09:22:33::__main__::DEBUG::Sleeping for 2.8
+./logs/01-May-25 09:22:39::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:22:47::__main__::INFO::58.0 minutes left in this search
+./logs/01-May-25 09:22:47::__main__::DEBUG::Sleeping for 2.6
+./logs/01-May-25 09:23:00::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:23:00::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:23:06::__main__::INFO::Application Submitted
+./logs/01-May-25 09:23:07::__main__::INFO::Application Submitted
+./logs/01-May-25 09:23:07::__main__::INFO::
+Position 4211851563:
+ (2) Machine Learning Researcher - STT, NMT & TTS Systems | TransPerfect | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:23:07::__main__::INFO::58.0 minutes left in this search
+./logs/01-May-25 09:23:07::__main__::DEBUG::Sleeping for 2.0
+./logs/01-May-25 09:23:14::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:23:22::__main__::INFO::58.0 minutes left in this search
+./logs/01-May-25 09:23:22::__main__::DEBUG::Sleeping for 1.5
+./logs/01-May-25 09:23:34::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:23:34::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:23:40::__main__::INFO::Application Submitted
+./logs/01-May-25 09:23:41::__main__::INFO::Application Submitted
+./logs/01-May-25 09:23:41::__main__::INFO::
+Position 4203294444:
+ (2) Artificial Intelligence Consultant | Brooksource | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:23:41::__main__::INFO::57.0 minutes left in this search
+./logs/01-May-25 09:23:41::__main__::DEBUG::Sleeping for 2.2
+./logs/01-May-25 09:23:48::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:23:56::__main__::INFO::57.0 minutes left in this search
+./logs/01-May-25 09:23:56::__main__::DEBUG::Sleeping for 2.7
+./logs/01-May-25 09:24:08::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:24:08::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:24:12::__main__::INFO::Application Submitted
+./logs/01-May-25 09:24:14::__main__::INFO::Application Submitted
+./logs/01-May-25 09:24:14::__main__::INFO::
+Position 4008058299:
+ (2) Senior ML | LLM Engineer | Discover International | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:24:14::__main__::INFO::57.0 minutes left in this search
+./logs/01-May-25 09:24:14::__main__::DEBUG::Sleeping for 2.5
+./logs/01-May-25 09:24:20::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:24:29::__main__::INFO::57.0 minutes left in this search
+./logs/01-May-25 09:24:29::__main__::DEBUG::Sleeping for 2.5
+./logs/01-May-25 09:24:41::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:24:41::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:24:48::__main__::INFO::Application Submitted
+./logs/01-May-25 09:24:49::__main__::INFO::Application Submitted
+./logs/01-May-25 09:24:49::__main__::INFO::
+Position 4182570102:
+ (2) AI Engineer | Connect Tech+Talent | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:24:49::__main__::INFO::56.0 minutes left in this search
+./logs/01-May-25 09:24:49::__main__::DEBUG::Sleeping for 1.9
+./logs/01-May-25 09:24:55::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:25:04::__main__::INFO::56.0 minutes left in this search
+./logs/01-May-25 09:25:04::__main__::DEBUG::Sleeping for 1.9
+./logs/01-May-25 09:25:16::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:25:16::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:25:18::__main__::INFO::Application Submitted
+./logs/01-May-25 09:25:19::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:25:25::__main__::INFO::Application Submitted
+./logs/01-May-25 09:25:27::__main__::INFO::Application Submitted
+./logs/01-May-25 09:25:27::__main__::INFO::
+Position 4216555552:
+ (2) Senior Data Scientist | Kforce Inc | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:25:27::__main__::INFO::56.0 minutes left in this search
+./logs/01-May-25 09:25:27::__main__::DEBUG::Sleeping for 2.4
+./logs/01-May-25 09:25:33::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:25:41::__main__::INFO::55.0 minutes left in this search
+./logs/01-May-25 09:25:41::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:25:53::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:25:53::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:25:59::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:26:05::__main__::INFO::Skipping application
+./logs/01-May-25 09:26:06::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:26:11::__main__::INFO::Skipping application
+./logs/01-May-25 09:26:14::__main__::INFO::Application Submitted
+./logs/01-May-25 09:26:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:26:21::__main__::INFO::Application Submitted
+./logs/01-May-25 09:26:22::__main__::INFO::Application Submitted
+./logs/01-May-25 09:26:22::__main__::INFO::
+Position 4212663156:
+ (2) Principal Data Scientist - GenAI (Fullstack) | Ovise | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:26:22::__main__::INFO::55.0 minutes left in this search
+./logs/01-May-25 09:26:22::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:26:28::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:26:37::__main__::INFO::54.0 minutes left in this search
+./logs/01-May-25 09:26:37::__main__::DEBUG::Sleeping for 2.3
+./logs/01-May-25 09:26:49::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:26:49::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:26:54::__main__::INFO::Application Submitted
+./logs/01-May-25 09:26:55::__main__::INFO::Application Submitted
+./logs/01-May-25 09:26:55::__main__::INFO::
+Position 4186520423:
+ (2) GenAI / ML Engineer | Source Technology | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:26:55::__main__::INFO::54.0 minutes left in this search
+./logs/01-May-25 09:26:55::__main__::DEBUG::Sleeping for 1.7
+./logs/01-May-25 09:27:02::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:27:11::__main__::INFO::54.0 minutes left in this search
+./logs/01-May-25 09:27:11::__main__::DEBUG::Sleeping for 2.1
+./logs/01-May-25 09:27:23::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:27:23::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:27:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:27:34::__main__::INFO::Skipping application
+./logs/01-May-25 09:27:36::__main__::INFO::Application Submitted
+./logs/01-May-25 09:27:37::__main__::INFO::Application Submitted
+./logs/01-May-25 09:27:37::__main__::INFO::
+Position 4198759728:
+ (2) Artificial Intelligence Researcher | Intelliswift - An LTTS Company | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:27:37::__main__::INFO::53.0 minutes left in this search
+./logs/01-May-25 09:27:37::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:27:44::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:27:52::__main__::INFO::53.0 minutes left in this search
+./logs/01-May-25 09:27:52::__main__::DEBUG::Sleeping for 2.3
+./logs/01-May-25 09:28:05::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:28:05::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:28:07::__main__::INFO::Application Submitted
+./logs/01-May-25 09:28:08::__main__::INFO::Application Submitted
+./logs/01-May-25 09:28:08::__main__::INFO::
+Position 4132201551:
+ (2) Remote Senior/Staff Data Scientist | CyberCoders | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:28:08::__main__::INFO::53.0 minutes left in this search
+./logs/01-May-25 09:28:08::__main__::DEBUG::Sleeping for 2.9
+./logs/01-May-25 09:28:15::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:28:23::__main__::INFO::53.0 minutes left in this search
+./logs/01-May-25 09:28:23::__main__::DEBUG::Sleeping for 2.2
+./logs/01-May-25 09:28:35::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:28:35::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:28:40::__main__::INFO::Application Submitted
+./logs/01-May-25 09:28:41::__main__::INFO::Application Submitted
+./logs/01-May-25 09:28:41::__main__::INFO::
+Position 4207658378:
+ (2) Biometrics AI & Machine Learning Consultant | RBW Consulting | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:28:41::__main__::INFO::52.0 minutes left in this search
+./logs/01-May-25 09:28:41::__main__::DEBUG::Sleeping for 2.3
+./logs/01-May-25 09:28:48::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:28:56::__main__::INFO::52.0 minutes left in this search
+./logs/01-May-25 09:28:56::__main__::DEBUG::Sleeping for 2.5
+./logs/01-May-25 09:29:08::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:29:08::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:29:15::__main__::INFO::Application Submitted
+./logs/01-May-25 09:29:16::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:29:22::__main__::INFO::Application Submitted
+./logs/01-May-25 09:29:23::__main__::INFO::Application Submitted
+./logs/01-May-25 09:29:23::__main__::INFO::
+Position 4210638345:
+ (2) Senior Machine Learning Engineer | Harnham | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:29:23::__main__::INFO::52.0 minutes left in this search
+./logs/01-May-25 09:29:23::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:29:30::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:29:38::__main__::INFO::51.0 minutes left in this search
+./logs/01-May-25 09:29:38::__main__::DEBUG::Sleeping for 2.7
+./logs/01-May-25 09:29:50::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:29:50::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:29:53::__main__::INFO::Application Submitted
+./logs/01-May-25 09:29:54::__main__::INFO::Application Submitted
+./logs/01-May-25 09:29:54::__main__::INFO::
+Position 3854758134:
+ (2) Senior Artificial Intelligence (AI) Data Scientist, Data & Technology, Data Analytics & AI (Remote) | Ankura | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:29:54::__main__::INFO::51.0 minutes left in this search
+./logs/01-May-25 09:29:54::__main__::DEBUG::Sleeping for 1.5
+./logs/01-May-25 09:30:01::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:30:09::__main__::INFO::51.0 minutes left in this search
+./logs/01-May-25 09:30:09::__main__::DEBUG::Sleeping for 1.7
+./logs/01-May-25 09:30:21::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:30:21::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:30:26::__main__::INFO::Application Submitted
+./logs/01-May-25 09:30:27::__main__::INFO::Application Submitted
+./logs/01-May-25 09:30:27::__main__::INFO::
+Position 4198349343:
+ (2) Data Scientist - AI Developer | Influx Search | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:30:27::__main__::INFO::51.0 minutes left in this search
+./logs/01-May-25 09:30:27::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:30:34::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:30:42::__main__::INFO::50.0 minutes left in this search
+./logs/01-May-25 09:30:42::__main__::DEBUG::Sleeping for 2.3
+./logs/01-May-25 09:30:54::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:30:54::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:30:56::__main__::INFO::Application Submitted
+./logs/01-May-25 09:30:57::__main__::INFO::Application Submitted
+./logs/01-May-25 09:30:57::__main__::INFO::
+Position 4208331605:
+ (2) Machine Learning - Data Scientist | Acceler8 Talent | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:30:57::__main__::INFO::50.0 minutes left in this search
+./logs/01-May-25 09:30:57::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:31:04::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:31:13::__main__::INFO::50.0 minutes left in this search
+./logs/01-May-25 09:31:13::__main__::DEBUG::Sleeping for 2.6
+./logs/01-May-25 09:31:25::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:31:25::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:31:30::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:31:38::__main__::INFO::Skipping application
+./logs/01-May-25 09:31:39::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:31:44::__main__::INFO::Skipping application
+./logs/01-May-25 09:31:46::__main__::INFO::Application Submitted
+./logs/01-May-25 09:31:48::__main__::INFO::Application Submitted
+./logs/01-May-25 09:31:48::__main__::INFO::
+Position 4212318042:
+ (2) Sr. Machine Learning Engineer | ClearOne Advantage | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:31:48::__main__::INFO::49.0 minutes left in this search
+./logs/01-May-25 09:31:48::__main__::DEBUG::Sleeping for 2.1
+./logs/01-May-25 09:31:54::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:32:03::__main__::INFO::49.0 minutes left in this search
+./logs/01-May-25 09:32:03::__main__::DEBUG::Sleeping for 2.1
+./logs/01-May-25 09:32:15::__main__::INFO::The Easy apply button does not exist.
+./logs/01-May-25 09:32:15::__main__::INFO::
+Position 4212318042:
+ (2) Sr. Machine Learning Engineer | ClearOne Advantage | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-May-25 09:32:15::__main__::INFO::49.0 minutes left in this search
+./logs/01-May-25 09:32:15::__main__::DEBUG::Sleeping for 2.8
+./logs/01-May-25 09:32:21::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:32:30::__main__::INFO::49.0 minutes left in this search
+./logs/01-May-25 09:32:30::__main__::DEBUG::Sleeping for 2.4
+./logs/01-May-25 09:32:42::__main__::INFO::The Easy apply button does not exist.
+./logs/01-May-25 09:32:42::__main__::INFO::
+Position 4212318042:
+ (2) Sr. Machine Learning Engineer | ClearOne Advantage | LinkedIn 
+ * Doesn't have Easy Apply Button 
+
+./logs/01-May-25 09:32:42::__main__::INFO::48.0 minutes left in this search
+./logs/01-May-25 09:32:42::__main__::DEBUG::Sleeping for 2.7
+./logs/01-May-25 09:32:49::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:32:57::__main__::INFO::48.0 minutes left in this search
+./logs/01-May-25 09:32:57::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:33:09::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:33:09::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:33:15::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:33:21::__main__::INFO::Skipping application
+./logs/01-May-25 09:33:22::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:33:28::__main__::INFO::Skipping application
+./logs/01-May-25 09:33:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:33:35::__main__::INFO::Skipping application
+./logs/01-May-25 09:33:36::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:33:42::__main__::INFO::Skipping application
+./logs/01-May-25 09:33:43::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:33:50::__main__::INFO::Skipping application
+./logs/01-May-25 09:33:51::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:33:57::__main__::INFO::Skipping application
+./logs/01-May-25 09:33:59::__main__::INFO::Application Submitted
+./logs/01-May-25 09:34:00::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:34:06::__main__::INFO::Application Submitted
+./logs/01-May-25 09:34:07::__main__::INFO::Application Submitted
+./logs/01-May-25 09:34:07::__main__::INFO::
+Position 4212968902:
+ (2) Data Science Manager | Infojini Inc | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:34:07::__main__::INFO::47.0 minutes left in this search
+./logs/01-May-25 09:34:07::__main__::DEBUG::Sleeping for 2.9
+./logs/01-May-25 09:34:14::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:34:22::__main__::INFO::47.0 minutes left in this search
+./logs/01-May-25 09:34:22::__main__::DEBUG::Sleeping for 1.7
+./logs/01-May-25 09:34:35::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:34:35::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:34:39::__main__::INFO::Application Submitted
+./logs/01-May-25 09:34:41::__main__::INFO::Application Submitted
+./logs/01-May-25 09:34:41::__main__::INFO::
+Position 4215392824:
+ (2) Senior Manager Data Scientist | Socure | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:34:41::__main__::INFO::46.0 minutes left in this search
+./logs/01-May-25 09:34:41::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:34:47::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:34:55::__main__::INFO::46.0 minutes left in this search
+./logs/01-May-25 09:34:55::__main__::DEBUG::Sleeping for 2.8
+./logs/01-May-25 09:35:08::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:35:08::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:35:13::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:35:21::__main__::INFO::Skipping application
+./logs/01-May-25 09:35:22::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:35:28::__main__::INFO::Skipping application
+./logs/01-May-25 09:35:31::__main__::INFO::Application Submitted
+./logs/01-May-25 09:35:32::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:35:38::__main__::INFO::Application Submitted
+./logs/01-May-25 09:35:39::__main__::INFO::Application Submitted
+./logs/01-May-25 09:35:39::__main__::INFO::
+Position 4212960747:
+ (2) Senior Data Scientist | Bankrate | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:35:39::__main__::INFO::45.0 minutes left in this search
+./logs/01-May-25 09:35:39::__main__::DEBUG::Sleeping for 2.3
+./logs/01-May-25 09:35:46::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:35:55::__main__::INFO::45.0 minutes left in this search
+./logs/01-May-25 09:35:55::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:36:06::__main__::DEBUG::Easy Apply button not found
+./logs/01-May-25 09:36:07::__main__::INFO::Clicking the EASY apply button
+./logs/01-May-25 09:36:12::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:36:20::__main__::INFO::Skipping application
+./logs/01-May-25 09:36:21::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:36:28::__main__::INFO::Skipping application
+./logs/01-May-25 09:36:29::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:36:36::__main__::INFO::Skipping application
+./logs/01-May-25 09:36:37::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:36:42::__main__::INFO::Skipping application
+./logs/01-May-25 09:36:46::__main__::INFO::Application Submitted
+./logs/01-May-25 09:36:47::__main__::INFO::Please answer the questions, waiting 5 seconds...
+./logs/01-May-25 09:36:53::__main__::INFO::Application Submitted
+./logs/01-May-25 09:36:54::__main__::INFO::Application Submitted
+./logs/01-May-25 09:36:54::__main__::INFO::
+Position 4207916212:
+ (3) Data Scientist | Crowdwave | LinkedIn 
+ *Applied: Sent Resume 
+
+./logs/01-May-25 09:36:54::__main__::INFO::44.0 minutes left in this search
+./logs/01-May-25 09:36:54::__main__::DEBUG::Sleeping for 2.4
+./logs/01-May-25 09:37:01::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:37:09::__main__::INFO::44.0 minutes left in this search
+./logs/01-May-25 09:37:09::__main__::DEBUG::Sleeping for 2.7
+./logs/01-May-25 09:37:16::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:37:25::__main__::INFO::44.0 minutes left in this search
+./logs/01-May-25 09:37:25::__main__::DEBUG::Sleeping for 2.4
+./logs/01-May-25 09:37:31::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:37:40::__main__::INFO::43.0 minutes left in this search
+./logs/01-May-25 09:37:40::__main__::DEBUG::Sleeping for 2.0
+./logs/01-May-25 09:37:46::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:37:55::__main__::INFO::43.0 minutes left in this search
+./logs/01-May-25 09:37:55::__main__::DEBUG::Sleeping for 1.9
+./logs/01-May-25 09:38:01::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:38:09::__main__::INFO::43.0 minutes left in this search
+./logs/01-May-25 09:38:09::__main__::DEBUG::Sleeping for 2.6
+./logs/01-May-25 09:38:16::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:38:24::__main__::INFO::43.0 minutes left in this search
+./logs/01-May-25 09:38:24::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:38:31::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:38:39::__main__::INFO::42.0 minutes left in this search
+./logs/01-May-25 09:38:39::__main__::DEBUG::Sleeping for 2.7
+./logs/01-May-25 09:38:46::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:38:55::__main__::INFO::42.0 minutes left in this search
+./logs/01-May-25 09:38:55::__main__::DEBUG::Sleeping for 2.5
+./logs/01-May-25 09:39:02::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:39:11::__main__::INFO::42.0 minutes left in this search
+./logs/01-May-25 09:39:11::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:39:17::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:39:26::__main__::INFO::42.0 minutes left in this search
+./logs/01-May-25 09:39:26::__main__::DEBUG::Sleeping for 2.8
+./logs/01-May-25 09:39:32::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:39:41::__main__::INFO::41.0 minutes left in this search
+./logs/01-May-25 09:39:41::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:39:47::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:39:56::__main__::INFO::41.0 minutes left in this search
+./logs/01-May-25 09:39:56::__main__::DEBUG::Sleeping for 1.6
+./logs/01-May-25 09:40:02::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:40:10::__main__::INFO::41.0 minutes left in this search
+./logs/01-May-25 09:40:10::__main__::DEBUG::Sleeping for 2.5
+./logs/01-May-25 09:40:17::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:40:25::__main__::INFO::41.0 minutes left in this search
+./logs/01-May-25 09:40:25::__main__::DEBUG::Sleeping for 2.5
+./logs/01-May-25 09:40:32::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:40:40::__main__::INFO::40.0 minutes left in this search
+./logs/01-May-25 09:40:40::__main__::DEBUG::Sleeping for 1.8
+./logs/01-May-25 09:40:47::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:40:55::__main__::INFO::40.0 minutes left in this search
+./logs/01-May-25 09:40:55::__main__::DEBUG::Sleeping for 1.7
+./logs/01-May-25 09:41:02::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:41:10::__main__::INFO::40.0 minutes left in this search
+./logs/01-May-25 09:41:10::__main__::DEBUG::Sleeping for 2.7
+./logs/01-May-25 09:41:17::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:41:25::__main__::INFO::40.0 minutes left in this search
+./logs/01-May-25 09:41:25::__main__::DEBUG::Sleeping for 2.2
+./logs/01-May-25 09:41:31::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:41:40::__main__::INFO::39.0 minutes left in this search
+./logs/01-May-25 09:41:40::__main__::DEBUG::Sleeping for 2.3
+./logs/01-May-25 09:41:46::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:41:55::__main__::INFO::39.0 minutes left in this search
+./logs/01-May-25 09:41:55::__main__::DEBUG::Sleeping for 1.5
+./logs/01-May-25 09:42:01::__main__::INFO::Loading next job page?
+./logs/01-May-25 09:42:09::__main__::INFO::39.0 minutes left in this search
+./logs/01-May-25 09:42:09::__main__::DEBUG::Sleeping for 2.8

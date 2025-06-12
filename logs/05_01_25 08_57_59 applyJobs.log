@@ -1,0 +1,7 @@
+./logs/01-May-25 08:57:59::__main__::INFO::{'phone_number': 9724606467, 'profile_path': '', 'positions': ['Data Scientist'], 'locations': ['United States', 'Remote'], 'salary': 140000, 'rate': 70, 'uploads': {'Resume': '/Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx', 'Cover Letter': '/Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx'}, 'output_filename': '/Users/arunrajpeddhala/Desktop/LinkedIn-Easy-Apply-Bot/out.csv', 'experience_level': None}
+./logs/01-May-25 08:57:59::__main__::INFO::Welcome to Easy Apply Bot
+./logs/01-May-25 08:57:59::__main__::INFO::current directory is : /Users/arunrajpeddhala/Desktop/LinkedIn-Easy-Apply-Bot
+./logs/01-May-25 08:57:59::__main__::INFO::Please wait while we prepare the bot for you
+./logs/01-May-25 08:57:59::__main__::INFO::Applying for all experience levels
+./logs/01-May-25 08:57:59::__main__::INFO::[Errno 21] Is a directory: '/'   jobIDs could not be loaded from CSV /
+./logs/01-May-25 08:58:02::__main__::INFO::Logging in.....Please wait :)  

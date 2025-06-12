@@ -1,0 +1,35 @@
+username: arunrajpeddala@gmail.com
+password: Helix@007
+phone_number: 9724606467
+
+profile_path: ''
+
+
+positions:
+- Data Scientist
+
+
+locations:
+- United States
+
+salary: 140000
+rate: 70
+# --------- Optional Parameters -------
+uploads:
+  Resume: /Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx
+  Cover Letter: /Users/arunrajpeddhala/Desktop/C2C/ARUN_RAJ_PEDDHALA_Data_Scientist_Resume.docx
+  #Photo: # PATH TO photo
+
+
+output_filename: /Users/arunrajpeddhala/Desktop/LinkedIn-Easy-Apply-Bot/out.csv
+
+# blacklist:
+# - # Company names you want to ignore
+
+experience_level:
+  # - 1 # Entry level
+  # - 2 # Associate
+  # - 3 # Mid-Senior level
+  # - 4 # Director
+  # - 5 # Executive
+  # - 6 # Internship
